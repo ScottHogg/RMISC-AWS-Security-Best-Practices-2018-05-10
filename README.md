@@ -24,13 +24,18 @@ https://www.hoggcloud.com/foo?username=1%27%20or%20%271%27%20=%20%27
 https://www.hoggcloud.com/(\.|(%|%25)2E)(\.|(%|%25)2E)(\/|(%|%25)2F|\\|(%|%25)5C)/i
 
 
+
 Simply follow these instructions and deploy the CFT into your account, in the region with your ALB.
 
 https://docs.aws.amazon.com/solutions/latest/aws-waf-security-automations/deployment.html
 
+
+
 Kali Linux can be downloaded and installed into your account from the AWS Marketplace.
 
 https://aws.amazon.com/marketplace/pp/B01M26MMTT/
+
+
 
 Some of the AWS event-driven security examples I showed came from this tutorial and this example.
 
@@ -42,11 +47,15 @@ Event-Driven AWS Security: A Practical Example
 
 https://securosis.com/blog/event-driven-security-on-aws-a-practical-example
 
+
+
 I also showed how Duo CloudMapper can help diagram out your AWS environment.
 
 https://duo.com/blog/introducing-cloudmapper-an-aws-visualization-tool
 
 https://github.com/duo-labs/cloudmapper
+
+
 
 Prowler is also a great way to check compliance of your AWS account.
 

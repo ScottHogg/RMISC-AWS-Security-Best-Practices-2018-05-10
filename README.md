@@ -26,13 +26,11 @@ https://www.hoggcloud.com/(\.|(%|%25)2E)(\.|(%|%25)2E)(\/|(%|%25)2F|\\|(%|%25)5C
 
 
 Simply follow these instructions and deploy the CFT into your account, in the region with your ALB.
-
 https://docs.aws.amazon.com/solutions/latest/aws-waf-security-automations/deployment.html
 
 
 
 Kali Linux can be downloaded and installed into your account from the AWS Marketplace.
-
 https://aws.amazon.com/marketplace/pp/B01M26MMTT/
 
 
@@ -58,5 +56,4 @@ https://github.com/duo-labs/cloudmapper
 
 
 Prowler is also a great way to check compliance of your AWS account.
-
 https://github.com/Alfresco/prowler

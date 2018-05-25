@@ -12,7 +12,6 @@ Picture of the AWS Sandbox Account.
 ![alt tag](https://github.com/ScottHogg/RMISC-AWS-Security-Best-Practices-2018-05-10/raw/master/Testbed%20AWS%20Account.jpg)
 
 The AWS WAF was configured with the rules that came from the AWS WAF Security Automations:
-
 https://aws.amazon.com/answers/security/aws-waf-security-automations/
 
 Here are some URLs that you can use to test your WAF.
@@ -38,11 +37,9 @@ https://aws.amazon.com/marketplace/pp/B01M26MMTT/
 Some of the AWS event-driven security examples I showed came from this tutorial and this example.
 
 Tutorial: Log Amazon S3 Object-Level Operations Using CloudWatch Events
-
 http://docs.aws.amazon.com/AmazonCloudWatch/latest/events/log-s3-data-events.html
 
 Event-Driven AWS Security: A Practical Example
-
 https://securosis.com/blog/event-driven-security-on-aws-a-practical-example
 
 
